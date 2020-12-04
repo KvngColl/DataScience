@@ -1,0 +1,100 @@
+Entity,Code,Minimum population threshold for urban area (UN; 2018)
+Albania,ALB,400
+Algeria,DZA,5000
+American Samoa,ASM,2500
+Argentina,ARG,2000
+Australia,AUS,10000
+Bahrain,BHR,2500
+Bangladesh,BGD,5000
+Belgium,BEL,5000
+Benin,BEN,10000
+Bhutan,BTN,1500
+Bolivia,BOL,2000
+Botswana,BWA,5000
+Cambodia,KHM,2000
+Cameroon,CMR,5000
+Canada,CAN,1000
+Central African Republic,CAF,3000
+Colombia,COL,2000
+Comoros,COM,5000
+Cote d'Ivoire,CIV,10000
+Croatia,HRV,2000
+Cuba,CUB,2000
+Czech Republic,CZE,2000
+Democratic Republic of Congo,COD,2000
+Denmark,DNK,200
+Dominica,DMA,1000
+Equatorial Guinea,GNQ,1500
+Eritrea,ERI,2000
+Ethiopia,ETH,2000
+Fiji,FJI,1000
+France,FRA,2000
+French Polynesia,PYF,5000
+Gabon,GAB,3000
+Gambia,GMB,5000
+Ghana,GHA,5000
+Greece,GRC,10000
+Greenland,GRL,200
+Guadeloupe,GLP,2000
+Guam,GUM,2500
+Honduras,HND,2000
+Iceland,ISL,200
+India,IND,5000
+Iran,IRN,5000
+Ireland,IRL,1500
+Israel,ISR,2000
+Italy,ITA,10000
+Japan,JPN,50000
+Jordan,JOR,5000
+Kenya,KEN,2000
+Kuwait,KWT,10000
+Laos,LAO,600
+Lebanon,LBN,5000
+Liberia,LBR,2000
+Luxembourg,LUX,2000
+Madagascar,MDG,5000
+Malaysia,MYS,10000
+Mali,MLI,30000
+Malta,MLT,2500
+Martinique,MTQ,2000
+Mauritania,MRT,5000
+Mayotte,MYT,5000
+Mexico,MEX,2500
+Micronesia (country),FSM,1000
+Netherlands,NLD,20000
+New Zealand,NZL,1000
+Nicaragua,NIC,1000
+Nigeria,NGA,20000
+Norway,NOR,2000
+Oman,OMN,2500
+Palestine,PSE,10000
+Panama,PAN,1500
+Papua New Guinea,PNG,500
+Philippines,PHL,2500
+Portugal,PRT,2000
+Puerto Rico,PRI,2500
+Qatar,QAT,5000
+Reunion,REU,2000
+San Marino,SMR,1000
+Saudi Arabia,SAU,5000
+Senegal,SEN,10000
+Sierra Leone,SLE,2000
+Slovakia,SVK,5000
+Slovenia,SVN,3000
+Solomon Islands,SLB,1000
+Somalia,SOM,1500
+South Sudan,SSD,5000
+Spain,ESP,10000
+Sudan,SDN,5000
+Sweden,SWE,200
+Switzerland,CHE,10000
+Syria,SYR,20000
+Tunisia,TUN,5000
+Uganda,UGA,2000
+United Kingdom,GBR,10000
+United States,USA,2500
+United States Virgin Islands,VIR,2500
+Venezuela,VEN,2500
+Vietnam,VNM,4000
+Zambia,ZMB,5000
+Zimbabwe,ZWE,2500
